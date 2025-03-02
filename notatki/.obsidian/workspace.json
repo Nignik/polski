@@ -195,30 +195,226 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dziady cz. III.md",
+                "file": "Opracowania Lektur/Antygona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dziady cz. III"
+              "title": "Antygona"
             }
           },
           {
-            "id": "8c69124f1a5b4161",
+            "id": "32687057d1b5c3a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Opracowania Lektur/Świteź.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Świteź"
+            }
+          },
+          {
+            "id": "b664c61fa5fad6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania Lektur/Skąpiec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skąpiec"
+            }
+          },
+          {
+            "id": "bd7899747552cbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania Lektur/Świteź.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Świteź"
+            }
+          },
+          {
+            "id": "e32e42880ad32d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów jawnych/Literacki obraz końca świata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literacki obraz końca świata"
+            }
+          },
+          {
+            "id": "768066cfef4e315f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów jawnych/Tragizm ludzkiego losu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tragizm ludzkiego losu"
+            }
+          },
+          {
+            "id": "5ccc9322a96e63b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów jawnych/Wzór rycerza idealnego.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wzór rycerza idealnego"
+            }
+          },
+          {
+            "id": "6d90e2e98d622fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów jawnych/Motyw władzy w literaturze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motyw władzy w literaturze"
+            }
+          },
+          {
+            "id": "aefa956a5bb685f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów jawnych/Rola postaci fantastycznych....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rola postaci fantastycznych..."
+            }
+          },
+          {
+            "id": "c50d7ad49ed5f4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów jawnych/Obraz miasta i jego mieszkańców.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obraz miasta i jego mieszkańców"
+            }
+          },
+          {
+            "id": "cf9805529502a3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów niejawnych/Relacje jednostki ze społeczeństwem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relacje jednostki ze społeczeństwem"
+            }
+          },
+          {
+            "id": "74226fb211d5945e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów niejawnych/Obraz podróży w sztuce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obraz podróży w sztuce"
+            }
+          },
+          {
+            "id": "338abd45ee4b7069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów niejawnych/Nieszczęśliwa miłość.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nieszczęśliwa miłość"
+            }
+          },
+          {
+            "id": "000de0a04b35e101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów niejawnych/Wartość przyjaźni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wartość przyjaźni"
+            }
+          },
+          {
+            "id": "dc4241492bd56bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów niejawnych/Motyw vanitas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motyw vanitas"
+            }
+          },
+          {
+            "id": "0f386675f1e4b619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania tematów jawnych/Motyw władzy w literaturze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motyw władzy w literaturze"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -362,25 +558,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c69124f1a5b4161",
+  "active": "0f386675f1e4b619",
   "lastOpenFiles": [
-    "Dziady cz. III.md",
-    "Untitled.md",
-    "Świteź.md",
-    "Lilije.md",
-    "Skąpiec.md",
-    "Romantyczność.md",
-    "Pijaństwo.md",
-    "Ballady.md",
-    "Antygona.md",
+    "Opracowania tematów jawnych/Obraz miasta i jego mieszkańców.md",
+    "Opracowania tematów niejawnych/Motyw vanitas.md",
+    "Opracowania tematów niejawnych/Nawiązania w sztuce.md",
+    "Opracowania tematów jawnych/Motyw władzy w literaturze.md",
+    "Opracowania tematów jawnych/Literacki obraz końca świata.md",
+    "Opracowania tematów jawnych/Tragizm ludzkiego losu.md",
+    "Opracowania tematów jawnych/Rola postaci fantastycznych....md",
+    "Opracowania tematów jawnych/Wzór rycerza idealnego.md",
+    "Opracowania tematów niejawnych/Wartość przyjaźni.md",
+    "Opracowania Lektur/Makbet.md",
+    "Opracowania tematów niejawnych/Nieszczęśliwa miłość.md",
+    "Opracowania tematów niejawnych/Obraz podróży w sztuce.md",
+    "Opracowania tematów niejawnych/Relacje jednostki ze społeczeństwem.md",
+    "Opracowania Lektur/Pieśń o Rolandzie.md",
+    "Opracowania Lektur/Antygona.md",
+    "Opracowania Lektur/Biblia.md",
+    "Opracowania Lektur/Dziady cz. III.md",
+    "Obrazy/Wieslaw_Strejbka_zemsta.png",
+    "Obrazy/vanitas.png",
+    "Obrazy",
+    "Opracowania tematów niejawnych",
+    "Opracowania Lektur/Świteź.md",
+    "Opracowania tematów jawnych",
+    "Opracowania Lektur/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+    "Opracowania Lektur/Skąpiec.md",
+    "Opracowania Lektur",
+    "Opracowania Lektur/Lilije.md",
+    "Opracowania Lektur/Romantyczność.md",
+    "Opracowania Lektur/Pijaństwo.md",
+    "Opracowania Lektur/Ballady.md",
     "Untitled.canvas",
-    "Makbet.md",
-    "Mity.md",
-    "Pieśń o Rolandzie.md",
-    "Illiada.md",
-    "Rozmowa Mistrza Polikarpa ze Śmiercią.md",
-    "Mity.pdf",
-    "Biblia.md",
-    "Lektury.md"
+    "Opracowania Lektur/Mity.md",
+    "Mity.pdf"
   ]
 }
