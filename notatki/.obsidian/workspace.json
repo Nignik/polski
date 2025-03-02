@@ -1,0 +1,386 @@
+{
+  "main": {
+    "id": "b3d7398689a302a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "972317c0c7326e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612d6f3df262ca7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biblia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biblia"
+            }
+          },
+          {
+            "id": "71feea8f9d9f749e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mity"
+            }
+          },
+          {
+            "id": "1a71eb48dfb5c53d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Illiada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Illiada"
+            }
+          },
+          {
+            "id": "8f8a0da862a5e19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Antygona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antygona"
+            }
+          },
+          {
+            "id": "f0ef430d82a108a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rozmowa Mistrza Polikarpa ze Śmiercią"
+            }
+          },
+          {
+            "id": "3ffc8062b838edd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rozmowa Mistrza Polikarpa ze Śmiercią"
+            }
+          },
+          {
+            "id": "84070902d14201a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Antygona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antygona"
+            }
+          },
+          {
+            "id": "28f368b3e54428bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skąpiec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skąpiec"
+            }
+          },
+          {
+            "id": "1c87cf3b79f30ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pijaństwo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pijaństwo"
+            }
+          },
+          {
+            "id": "a55f1bdfb4c6baad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ballady.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ballady"
+            }
+          },
+          {
+            "id": "a77e355a502593fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skąpiec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skąpiec"
+            }
+          },
+          {
+            "id": "c556fea6d28e94cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lilije.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lilije"
+            }
+          },
+          {
+            "id": "436bbdab6478e0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Świteź.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Świteź"
+            }
+          },
+          {
+            "id": "18b1d9906c8128a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dziady cz. III.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dziady cz. III"
+            }
+          },
+          {
+            "id": "8c69124f1a5b4161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e50367ff08de885",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f2d71cfb7ee469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9e82af7e26ee85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10afdf28ea9297b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59a3e79426da7223",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "959821b966508080",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fce64988cf90178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01caa09d39649bd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "af144fda2688977f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "005b791c19ef5306",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aab00a1f0d4c5082",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c69124f1a5b4161",
+  "lastOpenFiles": [
+    "Dziady cz. III.md",
+    "Untitled.md",
+    "Świteź.md",
+    "Lilije.md",
+    "Skąpiec.md",
+    "Romantyczność.md",
+    "Pijaństwo.md",
+    "Ballady.md",
+    "Antygona.md",
+    "Untitled.canvas",
+    "Makbet.md",
+    "Mity.md",
+    "Pieśń o Rolandzie.md",
+    "Illiada.md",
+    "Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+    "Mity.pdf",
+    "Biblia.md",
+    "Lektury.md"
+  ]
+}
