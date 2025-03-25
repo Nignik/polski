@@ -1,5 +1,5 @@
 ### Temat
-Obraz miasta i jego mieszkańców. Omów zagadnienie na podstawie [[Zbrodnia i kara]] Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Obraz miasta i jego mieszkańców. Omów zagadnienie na podstawie [[Zbrodnia i Kara]] Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 ### Opracowanie
 #### Teza

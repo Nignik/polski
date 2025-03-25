@@ -179,16 +179,32 @@
             "id": "9969636b768d3fbd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obrazy/Pasted image 20250323191514.png"
+                "file": "Opracowania Lektur/Antygona.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250323191514"
+              "icon": "lucide-file",
+              "title": "Antygona"
+            }
+          },
+          {
+            "id": "2950834ccabf014a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania Lektur/Zbrodnia i Kara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zbrodnia i Kara"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -334,26 +350,30 @@
   },
   "active": "9b9e82af7e26ee85",
   "lastOpenFiles": [
+    "Opracowania Lektur/Dziady cz. III.md",
+    "Opracowania Lektur/Pan Tadeusz.md",
+    "Opracowania Lektur/Zbrodnia i Kara.md",
+    "Opracowania Lektur/Skąpiec.md",
+    "Opracowania Lektur/Pieśń o Rolandzie.md",
+    "Opracowania Lektur/Antygona.md",
+    "Obrazy/random/Pasted image 20250323191514.png",
+    "Obrazy/random",
     "Epoki/Pozytywizm.md",
-    "Obrazy/Pasted image 20250323192412.png",
-    "Obrazy/Pasted image 20250323192326.png",
-    "Obrazy/Pasted image 20250323192206.png",
-    "Obrazy/Pasted image 20250323192158.png",
+    "Obrazy/random/Pasted image 20250323192412.png",
+    "Obrazy/random/Pasted image 20250323192326.png",
+    "Obrazy/random/Pasted image 20250323192206.png",
+    "Obrazy/random/Pasted image 20250323192158.png",
     "Epoki/Romantyzm.md",
-    "Obrazy/Pasted image 20250323192145.png",
-    "Obrazy/Pasted image 20250323192043.png",
-    "Obrazy/Pasted image 20250323191827.png",
-    "Obrazy/Pasted image 20250323191757.png",
-    "Obrazy/Pasted image 20250323191730.png",
-    "Obrazy/Pasted image 20250323191514.png",
+    "Obrazy/random/Pasted image 20250323192145.png",
+    "Obrazy/random/Pasted image 20250323192043.png",
+    "Obrazy/random/Pasted image 20250323191827.png",
+    "Obrazy/random/Pasted image 20250323191757.png",
+    "Obrazy/random/Pasted image 20250323191730.png",
     "Opracowania tematów jawnych/Nowomowa jako sposób na ograniczenie wolności.md",
     "Epoki",
-    "Opracowania Lektur/Dziady cz. III.md",
     "Opracowania Lektur/Biblia.md",
     "Opracowania Lektur/Ballady.md",
-    "Opracowania Lektur/Antygona.md",
     "Opracowania Lektur/Konrad Wallenrod.md",
-    "Opracowania Lektur/Pan Tadeusz.md",
     "Opracowania Lektur/Pijaństwo.md",
     "Opracowania tematów jawnych/Znaczenie propagandy w państwie totalitarnym.md",
     "Opracowania tematów jawnych/Relacje międzyludzkie w państwie totalitarnym.md",
@@ -368,8 +388,6 @@
     "Opracowania tematów jawnych/Obraz miasta i jego mieszkańców.md",
     "Opracowania tematów niejawnych/Motyw vanitas.md",
     "Opracowania tematów niejawnych/Nawiązania w sztuce.md",
-    "Opracowania tematów jawnych/Rola postaci fantastycznych....md",
-    "Opracowania tematów niejawnych/Wartość przyjaźni.md",
     "Obrazy",
     "Opracowania tematów niejawnych",
     "Opracowania tematów jawnych",
