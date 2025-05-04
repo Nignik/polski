@@ -39,3 +39,16 @@
 - Rodion rozchorował się i trafił do szpitala
 - Po kilku tygodniach leczenia zrozumiał jak dużo znaczy dla niego Sonia
 - Raskolnikow na brzegu rzeki przytula Sonię i rodzi się na nowo
+## Bohaterowie
+- **Rodion Raskolnikow:** Główny bohater, biedny student
+- **Sonia Marmieładowa:** Ukochana Raskolnikowa, zarabia na prostytucji. Jej przyrodnią matką jest Katarzyna Iwanowna. Wierzy w dobro.
+- **Razumichin:** Przyjaciel Raskolnikowa, zmaga się z problemami finansowymi, zajmuje się tłumaczeniem dokumentów. Zakochał się w Duni i ją poślubił
+- **Dunia:** Siostra Raskolnikowa, pracowała jako guwernantka.
+- **Pulcheria Raskolnikowa:** Matka Rodiona, wdowa.
+- **Piotr Łużyn:** Narzeczony Duni, krewny Marfy Pietrowny. Zamożny, traktuje innych ludzi z wyższością.
+- **Arkadiusz Swidrygajłow:** Kochał Dunię
+- **Marfa Pietrowna:** Żona Swidrygajłowa. Oskarżyła Dunię o uwodzenie swojego męża. Uwzględniła Dunię w swoim testamencie.
+- **Marmieładow:** Ojciec Soni. Stracił stanowiska urzędnika przez swoje pijaństwo. Zginął potrącony przez powóz konny.
+- **Katarzyna Iwanowna:** Druga żona Marmieładowa. Wdowa z trójką dzieci, zachorowała na suchoty.
+- **Alona Iwanowna:** Zamożna lichwiarka, zabita przez Raskolnikowa.
+- **Lizawieta Iwanowna:** Młodsza siostra Alony, przypadkowa ofiara Raskolnikowa.

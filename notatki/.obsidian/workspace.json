@@ -8,188 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f386675f1e4b619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania tematów jawnych/Wzór rycerza idealnego.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wzór rycerza idealnego"
-            }
-          },
-          {
-            "id": "59471d07858ee199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania tematów jawnych/Co skłania człowieka do poświęceń.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Co skłania człowieka do poświęceń"
-            }
-          },
-          {
-            "id": "f006617e585cd449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania tematów jawnych/Człowiek wobec cierpienia i śmierci.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Człowiek wobec cierpienia i śmierci"
-            }
-          },
-          {
-            "id": "51cd7a174088c6a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania tematów jawnych/Czy możliwa jest przyjaźń w sytuacjach skrajnych.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Czy możliwa jest przyjaźń w sytuacjach skrajnych"
-            }
-          },
-          {
-            "id": "f6de4bb6b30f661e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania tematów jawnych/Relacje międzyludzkie w państwie totalitarnym.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relacje międzyludzkie w państwie totalitarnym"
-            }
-          },
-          {
-            "id": "2b4149b548eae8d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania tematów jawnych/Znaczenie propagandy w państwie totalitarnym.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Znaczenie propagandy w państwie totalitarnym"
-            }
-          },
-          {
-            "id": "70a46660be36d1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania Lektur/Antygona.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antygona"
-            }
-          },
-          {
-            "id": "0515f4501793cd65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania Lektur/Konrad Wallenrod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Konrad Wallenrod"
-            }
-          },
-          {
-            "id": "1db0f7d60d207e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania Lektur/Pan Tadeusz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pan Tadeusz"
-            }
-          },
-          {
-            "id": "5eb483d406e42a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania Lektur/Pan Tadeusz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pan Tadeusz"
-            }
-          },
-          {
-            "id": "0cd6d9146d1807ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania tematów jawnych/Nowomowa jako sposób na ograniczenie wolności.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nowomowa jako sposób na ograniczenie wolności"
-            }
-          },
-          {
-            "id": "149923c00394e240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoki/Romantyzm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Romantyzm"
-            }
-          },
-          {
-            "id": "9969636b768d3fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opracowania Lektur/Antygona.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antygona"
-            }
-          },
-          {
             "id": "2950834ccabf014a",
             "type": "leaf",
             "state": {
@@ -202,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Zbrodnia i Kara"
             }
+          },
+          {
+            "id": "ed250dde8828a813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opracowania Lektur/Pijaństwo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pijaństwo"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -348,13 +180,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b9e82af7e26ee85",
+  "active": "ed250dde8828a813",
   "lastOpenFiles": [
-    "Opracowania Lektur/Dziady cz. III.md",
-    "Opracowania Lektur/Pan Tadeusz.md",
+    "Opracowania Lektur/Świteź.md",
     "Opracowania Lektur/Zbrodnia i Kara.md",
+    "Opracowania Lektur/Mity.md",
+    "Opracowania Lektur/Lilije.md",
+    "Opracowania Lektur/Ballady.md",
+    "Opracowania Lektur/Dziady cz. III.md",
+    "Opracowania Lektur/Biblia.md",
     "Opracowania Lektur/Skąpiec.md",
     "Opracowania Lektur/Pieśń o Rolandzie.md",
+    "Opracowania Lektur/Pan Tadeusz.md",
+    "Opracowania Lektur/Inny Świat.md",
     "Opracowania Lektur/Antygona.md",
     "Obrazy/random/Pasted image 20250323191514.png",
     "Obrazy/random",
@@ -371,8 +209,6 @@
     "Obrazy/random/Pasted image 20250323191730.png",
     "Opracowania tematów jawnych/Nowomowa jako sposób na ograniczenie wolności.md",
     "Epoki",
-    "Opracowania Lektur/Biblia.md",
-    "Opracowania Lektur/Ballady.md",
     "Opracowania Lektur/Konrad Wallenrod.md",
     "Opracowania Lektur/Pijaństwo.md",
     "Opracowania tematów jawnych/Znaczenie propagandy w państwie totalitarnym.md",
@@ -384,10 +220,6 @@
     "Opracowania tematów jawnych/Tragizm ludzkiego losu.md",
     "Opracowania tematów jawnych/Literacki obraz końca świata.md",
     "Opracowania tematów niejawnych/Nieszczęśliwa miłość.md",
-    "Opracowania tematów jawnych/Motyw władzy w literaturze.md",
-    "Opracowania tematów jawnych/Obraz miasta i jego mieszkańców.md",
-    "Opracowania tematów niejawnych/Motyw vanitas.md",
-    "Opracowania tematów niejawnych/Nawiązania w sztuce.md",
     "Obrazy",
     "Opracowania tematów niejawnych",
     "Opracowania tematów jawnych",
